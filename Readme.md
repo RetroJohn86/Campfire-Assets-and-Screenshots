@@ -2,6 +2,7 @@
 
 **This Repository is of all thinks found and mined. This repo is organized based on category and is a combination of downloaded/remote assets and assets found inside the APK and Sources.**
 
+As from the March 1st 2024, the Download Size of this Repo is : 16.5 MB ( Please Note This Size Can Change At Anytime. )
 
 __**Files and Folder Structure.**__
 
